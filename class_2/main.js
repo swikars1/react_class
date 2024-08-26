@@ -1,15 +1,3 @@
-// const user = {
-//   name: "ram",
-//   age: 12,
-//   getLocation: function () {
-//     console.log("location is USA");
-//     console.log("logging this here:", this.age);
-//   },
-//   getUrl: function () {
-//     return this;
-//   },
-// };
-
 // hoisting
 // getName("email@gmail.com", "ram");
 
